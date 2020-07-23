@@ -1,0 +1,282 @@
+cd C:\Data\Lab\aria2c_rpc_win_service
+nuget restore
+msbuild
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe 
+git pull master
+git pull origin master
+wget
+git pull origin master
+wget
+wget --help
+wget -c http://downloadbackup.com.cp-in-1.webhostbox.net/backup_vfmobo6d_08-02-2018.tar.gz
+cd C:\Data\
+ls
+dir
+aria
+aria2c
+wget
+git pull origin master
+wget
+wget --help
+wget -c http://downloadbackup.com.cp-in-1.webhostbox.net/backup_vfmobo6d_08-02-2018.tar.gz
+ls
+dir
+aria
+cd C:\Data\
+aria2c
+aria2c http://downloadbackup.com.cp-in-1.webhostbox.net/backup_vfmobo6d_08-02-2018.tar.gz
+cd C:\Data\
+aria2c
+aria2c http://downloadbackup.com.cp-in-1.webhostbox.net/backup_vfmobo6d_08-02-2018.tar.gz
+aria2c http://downloadbackup.com.cp-in-1.webhostbox.net/backup_vfmobo6d_08-02-2018.tar.gz
+aria2c http://downloadbackup.com.cp-in-1.webhostbox.net/backup_vfmobo6d_08-02-2018.tar.gz
+recursive-gradle-cleaner.bat 
+recursive-gradle-cleaner.bat 
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe /u C:\Programs\aria2_repository\aria2c_service.exe
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe C:\Programs\aria2_repository\aria2c_service.exe
+adb_wi-fi.bat 
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe /u C:\Programs\aria2_repository\aria2c_service.exe
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe C:\Programs\aria2_repository\aria2c_service.exe
+adb_wi-fi.bat 
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe /u C:\Programs\aria2_repository\aria2c_service.exe
+arai2c
+adb_wi-fi.bat 
+ngrok authtoken 5r9dK7uw3MUpkSutPs1RM_2qEeWQRLu8xQhxm5Uzb4q
+ngrok tcp 8000
+ngrok http 8000
+adb_wi-fi.bat 
+ngrock
+ngrok
+cd "c:\Program
+cd "c:\Programs
+cd miniweb
+dir
+miniweb.exe 
+ngrok http 80
+arai2c
+ngrock http 6800
+ngrok http 6800
+cd C:\Programs\nginx-1.13.9
+nginx.exe 
+C:\Programs\aria2_servicev2\run.bat 
+aria2c
+aria2c --conf "C:\Programs\aria2_repository\aria2.conf" 
+start
+run
+C:\Programs\nginx-1.13.9
+C:\Programs\ngrok.exe http 5502
+start
+run
+cd C:\Programs\nginx-1.13.9
+C:\Programs\nginx-1.13.9\nginx.exe
+C:\Programs\aria2-1.33.1-win-64bit-build1\aria2c.exe --conf "C:\Programs\aria2_repository\aria2.conf"
+list disk
+diskpart
+C:\Programs\aria2-1.33.1-win-64bit-build1\aria2c.exe --conf "C:\Programs\aria2_repository\aria2.conf"
+list disk
+diskpart
+adb devices
+adb devices
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\InstallUtil.exe /u C:\Programs\aria2_service\aria2c_service.exe
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\InstallUtil.exe C:\Programs\aria2_service\aria2c_service.exe
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\InstallUtil.exe C:\Programs\aria2_service\aria2c_service.exe
+adb_wi-fi.bat 
+adb_wi-fi.bat 
+php -v
+adb devices
+adb_wi-fi.bat 
+adb devices
+adb_wi-fi.bat 
+sc delete wampapache64
+adb_wi-fi.bat 
+adb_wi-fi.bat 
+adb_wi-fi.bat 
+adb_wi-fi.bat 
+"C:\Program Files\NetBeans 8.2\bin\netbeans64.exe" --javahome "C:\Program Files\Java\jdk1.8.0_152" 
+"C:\Program Files\NetBeans 8.2\bin\netbeans64.exe" --javahome "C:\Program Files\Java\jdk1.8.0_152" 
+java --version
+java --version
+java -version
+recursive-gradle-cleaner.bat 
+adb_wi-fi.bat 
+adb_wi-fi.bat 
+ping PRISM2J-PC
+ping
+ping -4 PRISM2J-PC
+exit
+adb_wi-fi.bat 
+adb_wi-fi.bat 
+node -v
+node -v
+curl
+wget
+link
+npm i -g typescript
+tsc
+tsc
+npm install -g create-proton-app
+create-proton-app my-app
+dir
+cd C:\Programs\OpenSSH-Win64
+python
+powershell.exe -ExecutionPolicy Bypass -File install-sshd.ps1
+New-NetFirewallRule -Name sshd -DisplayName 'OpenSSH Server (sshd)' -Enabled True -Direction Inbound -Protocol TCP -Action Allow -LocalPort 22
+netsh advfirewall firewall add rule name=sshd dir=in action=allow protocol=TCP localport=22
+net start sshd
+cd C:\Programs\OpenSSH-Win64
+powershell.exe -ExecutionPolicy Bypass -File uninstall-sshd.ps1
+ssh
+exit
+python
+create-proton-app my-app
+exit
+ls
+pwd
+dir
+logout
+exit
+exit
+exit
+exit
+ssh
+ssh
+ssh
+ssh localhost
+exit
+ssh localhost
+ssh dk@localhost
+ssh sshd_server@localhost
+ssh localhost
+ssh localhost
+exit
+ssh localhost
+ssh dk@localhost
+ssh sshd_server@localhost
+ssh localhost
+adb
+adb devices
+scrcpy --help
+scrcpy
+adb_wi-fi.bat 
+exit
+ssh localhost
+ssh dk@localhost
+ssh sshd_server@localhost
+ssh localhost
+ssh localhost
+exit
+ssh localhost
+ssh dk@localhost
+ssh sshd_server@localhost
+ssh localhost
+adb
+scrcpy --help
+adb_wi-fi.bat 
+cd "C:\Programs\scrcpy-windows-v1.0\
+dir
+scrcpy -s 320122a7a51b544a
+adb devices
+scrcpy
+scrcpy
+adb_wi-fi.bat 
+adb devices
+adb devices
+npm i -g ionic
+exit
+adb devices
+npm i -g ionic
+node -v
+npm -v
+npm cache
+npm cache verify
+npm help
+cd D:\Laboratory\VS_Code_ionic1\Ethiopian_Construction_Directory\
+ls
+D:
+dir
+npm install -g cordova
+ionic cordova build --release android
+adb devices
+adb_wi-fi.bat 
+adb install D:\Laboratory\VS_Code_ionic1\Ethiopian_Construction_Directory\platforms\android\app\build\outputs\apk\release\app-release.apk
+exit
+node -v
+npm -v
+npm cache
+npm cache verify
+npm help
+ls
+npm install -g cordova
+adb devices
+adb_wi-fi.bat 
+adb install D:\Laboratory\VS_Code_ionic1\Ethiopian_Construction_Directory\platforms\android\app\build\outputs\apk\release\app-release.apk
+cd D:\Laboratory\VS_Code_ionic1\Ethiopian_Construction_Directory\
+D:
+dir
+npm up
+npm i
+bower
+gulp
+npm i -g gulp
+npm u -g gulp
+npm un -g gulp
+gulp help
+npm install gulp-cli -g
+gulp --help
+npm install -g bower
+cat
+nano
+bower install
+gulp -T
+gulp ionic:watch:before
+gulp ionic:build:before
+ionic serve
+ionic cordova build --release android
+exit
+aria2c
+aria2c --conf-path C:\Programs\aria2_repository\aria2.conf --log=C:\Programs\aria2_repository\aria2_rpc.log
+gulp ionic:watch:before
+gulp ionic:build:before
+ionic serve
+ionic cordova build --release android
+exit
+aria2c
+aria2c --conf-path C:\Programs\aria2_repository\aria2.conf --log=C:\Programs\aria2_repository\aria2_rpc.log
+cd D:\Laboratory\Android_Studio\Lottery
+D:
+gradlew.bat :keyboard:build
+adb_wi-fi.bat 
+adb deices
+adb devices
+adb install keyboard\build\outputs\apk\
+adb install keyboard\build\outputs\apk\debug\keyboard-debug.apk 
+adb install keyboard\build\outputs\apk\debug\keyboard-debug.apk 
+scrcpy
+adb devices
+scrcpy
+adb
+adb devices
+exit
+adb devices
+adb install D:\Embedded_Systems\Mobile_Phone_Systems\Android\Application_Softwares\Backup Tools\Super Backup Restore_v2.1.27_apkpure.com.apk
+adb install "D:\Embedded_Systems\Mobile_Phone_Systems\Android\Application_Softwares\Backup Tools\Super Backup Restore_v2.1.27_apkpure.com.apk"
+adb start-server
+exit
+recursive-gradle-cleaner.bat 
+adb_wi-fi.bat 
+exit
+exit
+D:\Laboratory\Batch\Automted_Builds\recursive-gradle-cleaner.bat 
+exit
+D:\Laboratory\Batch\Automted_Builds\recursive-gradle-cleaner.bat 
+wget
+wget --spyder http://www.flowgorithm.org/download/files/Flowgorithm-2.14.1-Setup.zip
+wget --spider http://www.flowgorithm.org/download/files/Flowgorithm-2.14.1-Setup.zip
+wget http://www.flowgorithm.org/download/files/Flowgorithm-2.14.1-Setup.zip
+wget -c http://www.flowgorithm.org/download/files/Flowgorithm-2.14.1-Setup.zip
+wget --help
+ping 192.168.1.6
+wget --spider
+wget --spider https://dl-ssl.google.com/android/repository/android-ndk-r17-darwin-x86_64.zip
+F:
+install-tl-advanced.bat 
